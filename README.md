@@ -1,7 +1,9 @@
 *Kira will always be Open Source, but please make sure to leave some kind of credit ;) Thanks!*
 
 # Kira - The open source multipurpouse Discord bot!
-[Invite the bot now!](https://discordapp.com/oauth2/authorize?client_id=%20317566206397644801&scope=bot&permissions=8) [Join the Discord Lounge!](https://discord.gg/udFnv9S)
+[Invite the bot now!](https://discordapp.com/oauth2/authorize?client_id=%20317566206397644801&scope=bot&permissions=8)
+
+[Join the Discord Lounge!](https://discord.gg/udFnv9S)
 
 ## **F E A T U R E S**
 - Over 15 commands, and 4 help pages
