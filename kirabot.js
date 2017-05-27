@@ -257,6 +257,19 @@ color: 3447003,
 description: `**I am currently:** lol ing`
 }});
 }
+  
+if (msg.content === "kira dice")) {
+  let args = msg.content.split(' ').slice(1);
+    let sides = args[0];
+  console.log(timestamp + ": " + msg.author.tag + " executed h:dice with the arg" + ` ${sides}.`)
+  msg.channel.send(`Rolled a ${sides}-sided dice and got a...`)
+  var rolled = Math.round(Math.random()*(`${sides}`-1)+1);
+  if (rolled === Infinity) {
+    msg.channel.send("Infinity!? No, that can't be...")
+  } else {
+    msg.channel.send(rolled)
+  }
+}
 
 });
 
